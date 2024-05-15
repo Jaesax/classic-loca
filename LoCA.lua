@@ -32,7 +32,7 @@ addon.defaultSettings = {
         { spellId = 19647, category = "Silenced", weight = 2, active = true, type = 2 }, --[[ Spell Lock --]]
         { spellId = 676, category = "Disarmed", weight = 2, active = true, type = 2 },   --[[ Disarm --]]
 
-        { spellId = 8643, category = "Stunned", weight = 3, active = true, type = 3 },   --[[ Kidney Shot --]]
+        { spellId = 408, category = "Stunned", weight = 3, active = true, type = 3 },   --[[ Kidney Shot --]]
         { spellId = 1833, category = "Stunned", weight = 3, active = true, type = 3 },   --[[ Cheap Shot --]]
         { spellId = 8983, category = "Stunned", weight = 3, active = true, type = 3 },   --[[ Bash --]]
         { spellId = 20615, category = "Stunned", weight = 3, active = true, type = 3 },  --[[ Intercept --]]
