@@ -1,5 +1,5 @@
 local addonName, addon = ...
-addon.addonTitle = GetAddOnMetadata(addonName, "Title")
+addon.addonTitle = C_AddOns.GetAddOnMetadata(addonName, "Title")
 
 addon.defaultSettings = {
   profile = {
